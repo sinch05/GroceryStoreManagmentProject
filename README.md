@@ -8,3 +8,5 @@ Front End:-
 4. Bootstrap:-It provides pre-designed CSS and JavaScript components, such as responsive grids, navigation bars, and modals, to streamline web development and ensure a consistent and responsive design. 
 Back End:-MySQL database is used for storing, managing, and retrieving structured data.
 Framework:- Flask  serves as the backend framework to handle server-side logic and communicate with the MySQL database
+
+hello from sinchana 
